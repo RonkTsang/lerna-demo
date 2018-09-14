@@ -1,5 +1,5 @@
 module.exports = {
   fire () {
-    console.log('haha zheme lihai?')
+    console.log('haha zheme lihai? demo here')
   }
 }
