@@ -1,13 +1,13 @@
 {
   "name": "demo-module-a",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "demo-module-b": "^0.0.1"
+    "demo-module-b": "^0.1.0"
   },
   "author": "",
   "license": "ISC"
